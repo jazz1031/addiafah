@@ -80,7 +80,7 @@ const TR: Record<Lang, Translations> = {
   EN: {
     nav: { links: ["Services", "Programs", "Industries", "Careers", "About", "Contact"], cta: "Book a Consultation" },
     hero: {
-      badge: "Algeria's #1 Hospitality & Service Training Company",
+      badge: "The #1 Hospitality & Service Training Company in Algeria & the GCC",
       h1: "Your Team Is Your Brand. We Make It Exceptional.",
       sub: "Addiafah delivers certified training in customer service, hospitality, and service quality auditing — empowering teams across Algeria and the GCC to perform at the highest level.",
       cta1: "Book a Free Consultation", cta2: "Explore Programs",
@@ -181,7 +181,7 @@ const TR: Record<Lang, Translations> = {
   FR: {
     nav: { links: ["Services", "Programmes", "Industries", "Carrières", "À propos", "Contact"], cta: "Commencer" },
     hero: {
-      badge: "N°1 de la Formation Hôtelière et du Service Client en Algérie",
+      badge: "N°1 de la Formation Hôtelière & Service Client — Algérie et Golfe",
       h1: "Votre équipe est votre marque. Nous la rendons exceptionnelle.",
       sub: "Addiafah propose des formations certifiées en service client, hôtellerie et audit qualité — pour des équipes performantes en Algérie et dans les pays du Golfe.",
       cta1: "Réserver une Consultation Gratuite", cta2: "Explorer les Programmes",
